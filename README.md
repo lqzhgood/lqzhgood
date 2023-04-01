@@ -18,22 +18,10 @@
  
 <a href="https://lqzh.me" target="_blank">lqzh.me</a>
 <br/>
-
-<!--
-**lqzhgood/lqzhgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
  
-😄 <u>Red panda</u> is so cute, but my \<Dog\>GuoGuo is super cute.
+ 
+😄 <u>Red panda</u> is so cute, but my `<Dog>`GuoGuo is super cute.
  
 
 
@@ -49,16 +37,14 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
-<br/>
+ 
 
 <div style="text-align:center">✨</div>
-
-<br/>
-
+ 
 <div class="flex-container">
-        <span > <a href="http://lqzhgood.github.io/Shmily" target="_blank">📔 Shmily</a> </span>
-        <img width="300" heigth="1">
         <span > <a href="http://ZhuZhou.city" target="_blank">🏙️ ZhuZhou.city</a> </span>
+        <img width="300" heigth="1">
+        <span > <a href="http://lqzhgood.github.io/Shmily" target="_blank">📔 Shmily</a> </span>
 </div>
  
 
@@ -66,3 +52,18 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lqzhgood.lqzhgood" alt="visitor badge"/>    
+ 
+<!--
+**lqzhgood/lqzhgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+ 
