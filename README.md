@@ -39,12 +39,12 @@
 
  
 
-<div style="text-align:center">✨</div>
+<div style="text-align:center">🎉</div>
  
 <div class="flex-container">
-        <span > <a href="http://ZhuZhou.city" target="_blank">🏙️ ZhuZhou.city</a> </span>
+        <span > <a href="http://ZhuZhou.city" target="_blank">🧭 ZhuZhou.city</a> </span>
         <img width="300" heigth="1">
-        <span > <a href="http://lqzhgood.github.io/Shmily" target="_blank">📔 Shmily</a> </span>
+        <span > <a href="http://lqzhgood.github.io/Shmily" target="_blank">🔖 Shmily</a> </span>
 </div>
  
 
