@@ -1,3 +1,7 @@
+<link rel="stylesheet" type="text/css" href="./style.css">
+
+
+
 ### Hi there 👋
 
 
@@ -37,10 +41,10 @@ Here are some ideas to get you started:
 <table cellpadding="10">
     <tr>
         <td style="text-align: center;">
-            <image src="https://github-readme-stats.vercel.app/api?username=lqzhgood&show_icons=true&layout=compact" height="150" />
+            <img src="https://github-readme-stats-lqzhgood.vercel.app/api?username=lqzhgood&hide_border=true&count_private=true&show_icons=true&layout=compact" height="150" />
         </td>
         <td style="text-align: center;">
-            <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=lqzhgood&show_icons=true&layout=compact&hide=html,css,c,assembly" height="150" />
+            <img src="https://github-readme-stats-lqzhgood.vercel.app/api/top-langs/?username=lqzhgood&hide_border=true&show_icons=true&layout=compact&hide=html,css,c,assembly" height="150" />
         </td>
     </tr>
 </table>
@@ -51,13 +55,12 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div style="
-    display: flex;
-    justify-content: space-around;
-">
-        <span><a href="http://lqzhgood.github.io/Shmily" target="_blank">📔 Shmily</a></span>
-        <span><a href="http://ZhuZhou.city" target="_blank">🏙️ ZhuZhou.city</a></span>
+<div class="flex-container">
+        <span > <a href="http://lqzhgood.github.io/Shmily" target="_blank">📔 Shmily</a> </span>
+        <img width="300" heigth="1">
+        <span > <a href="http://ZhuZhou.city" target="_blank">🏙️ ZhuZhou.city</a> </span>
 </div>
+ 
 
 <br/>
 <br/>
