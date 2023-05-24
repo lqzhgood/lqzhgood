@@ -10,5 +10,5 @@ jobs:
     steps:
     - name: curl
       run: |
-        curl -X GET "https://github-readme-stats-lqzhgood.vercel.app/api?username=lqzhgood&hide_border=true&count_private=true&show_icons=true&layout=compact"
-        curl -X GET "https://github-readme-stats-lqzhgood.vercel.app/api/top-langs/?username=lqzhgood&hide_border=true&show_icons=true&layout=compact&hide=html,css,c,assembly"        
+        curl -X GET "https://github-readme-stats-lqzhgood.vercel.app/api?username=lqzhgood&hide_border=true&count_private=true&show_icons=true&layout=compact&cache_seconds=43200"
+        curl -X GET "https://github-readme-stats-lqzhgood.vercel.app/api/top-langs/?username=lqzhgood&hide_border=true&show_icons=true&layout=compact&hide=html,css,c,assembly&cache_seconds=43200"        
