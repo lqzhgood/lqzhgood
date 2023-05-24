@@ -29,10 +29,10 @@
 <table cellpadding="10">
     <tr>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats-lqzhgood.vercel.app/api?username=lqzhgood&hide_border=true&count_private=true&show_icons=true&layout=compact" height="150" />
+            <img src="https://github-readme-stats-lqzhgood.vercel.app/api?username=lqzhgood&hide_border=true&count_private=true&show_icons=true&layout=compact&cache_seconds=43200" height="150" />
         </td>
         <td style="text-align: center;">
-            <img src="https://github-readme-stats-lqzhgood.vercel.app/api/top-langs/?username=lqzhgood&hide_border=true&show_icons=true&layout=compact&hide=html,css,c,assembly" height="150" />
+            <img src="https://github-readme-stats-lqzhgood.vercel.app/api/top-langs/?username=lqzhgood&hide_border=true&show_icons=true&layout=compact&hide=html,css,c,assembly&cache_seconds=43200" height="150" />
         </td>
     </tr>
 </table>
