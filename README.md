@@ -49,7 +49,7 @@
 <br/>
 <br/> 
 <div align="left">
- <sub><i>try { <code>CalcImage()</code> } catch( <code>err</code> ) { <code>refresh()</code> }</i></sub>
+ <sub><i>if ( <code>CalcImg()</code> > <code>Timeout</code> ) { <code>refresh()</code> }</i></sub>
  <img align="right" src="https://img.shields.io/endpoint?label=visit&style=social&url=https%3A%2F%2Fhits.dwyl.com%2Flqzhgood%2Flqzhgood.json" alt="visitor badge" old-src="https://visitor-badge.laobi.icu/badge?page_id=lqzhgood.lqzhgood" />     
 </div>
  
