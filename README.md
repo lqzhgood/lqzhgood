@@ -44,13 +44,13 @@
         <img width="300" heigth="1">
         <span > <a href="http://lqzhgood.github.io/Shmily" target="_blank">🔖 Shmily</a> </span>
 </div>
- 
 
 <br/>
 <br/>
 <br/> 
-<div align="left" ><i>try { <code>CalcImage()</code> } catch( <code>err</code> ) { <code>refresh()</code> }</i>
-<img align="right" src="https://img.shields.io/endpoint?label=visit&style=social&url=https%3A%2F%2Fhits.dwyl.com%2Flqzhgood%2Flqzhgood.json" alt="visitor badge" old-src="https://visitor-badge.laobi.icu/badge?page_id=lqzhgood.lqzhgood" />     
+<div align="left">
+ <sub><i>try { <code>CalcImage()</code> } catch( <code>err</code> ) { <code>refresh()</code> }</i></sub>
+ <img align="right" src="https://img.shields.io/endpoint?label=visit&style=social&url=https%3A%2F%2Fhits.dwyl.com%2Flqzhgood%2Flqzhgood.json" alt="visitor badge" old-src="https://visitor-badge.laobi.icu/badge?page_id=lqzhgood.lqzhgood" />     
 </div>
  
 <!--
