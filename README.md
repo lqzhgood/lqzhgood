@@ -36,9 +36,7 @@
         </td>
     </tr>
 </table>
-
  
-
 <div style="text-align:center">🎉</div>
  
 <div class="flex-container">
@@ -51,7 +49,9 @@
 <br/>
 <br/>
 <br/> 
+<div align="left" ><i>try { <code>CalcImage()</code> } catch( <code>err</code> ) { <code>refresh()</code> }</i>
 <img align="right" src="https://img.shields.io/endpoint?label=visit&style=social&url=https%3A%2F%2Fhits.dwyl.com%2Flqzhgood%2Flqzhgood.json" alt="visitor badge" old-src="https://visitor-badge.laobi.icu/badge?page_id=lqzhgood.lqzhgood" />     
+</div>
  
 <!--
 **lqzhgood/lqzhgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
